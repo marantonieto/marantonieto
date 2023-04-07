@@ -1,4 +1,4 @@
-### Hallo! Eu sou o Marcio Filho, estudante de Ciência da Computação!
+### Hallo! Eu sou o Marcio Filho!
 
 - 🌱 Estou aprendendo, atualmente, Python!
 
