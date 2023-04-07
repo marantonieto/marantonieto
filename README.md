@@ -10,4 +10,4 @@
 
 ##
  
- ![Snake animation](https://github.com/Nikkeru-137/Nikkeru-137/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/marantonieto/marantonieto/blob/output/github-contribution-grid-snake.svg)
