@@ -1,4 +1,5 @@
 ### Hallo! Eu sou o Marcio Filho!
+Hallo, I'm Marcio Filho, an Computer Science student from UFRPE!
 
 - 🌱 Estou aprendendo, atualmente, Python!
 
