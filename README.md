@@ -10,6 +10,3 @@ Hallo, I'm Marcio Filho, an Computer Science student from UFRPE!
 </div>
 <img align="right" alt="mzn-char" height="210" width="220"  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjBlMTU2ODE1ODQ5MDAyODVlY2E0NzcxYTIwMDViZjE0MDkxZWZkOCZjdD1n/xNeCKhmuoRc0WRL9EZ/giphy.gif">
 </div>
-
-##
- ![Snake animation](https://github.com/marantonieto/marantonieto/blob/output/github-contribution-grid-snake.svg)
