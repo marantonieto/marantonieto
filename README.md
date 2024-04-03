@@ -2,7 +2,7 @@
 Hallo, I'm Marcio Filho, an Computer Science student from UFRPE!
 <img align="right" alt="mzn-char" height="210" width="210"  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjBlMTU2ODE1ODQ5MDAyODVlY2E0NzcxYTIwMDViZjE0MDkxZWZkOCZjdD1n/xNeCKhmuoRc0WRL9EZ/giphy.gif">
 
-- 🌱 Estou aprendendo, atualmente, Front-end Development!
+- 🌱 Estou aprendendo, atualmente, ReactJS!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="mzn-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
