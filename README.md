@@ -15,6 +15,6 @@ Hallo, I'm Marcio Filho, an Computer Science student from UFRPE!
   <img align="center" alt="mzn-hs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" />
   <img align="center" alt="mzn-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
   <hr/>
-  <a href="https://github.com/marantonieto"><img width="30%" height="300" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marantonieto&theme=radical&title_color=ff3068?"></a>
+  <a href="https://github.com/marantonieto"><img width="50%" height="300" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marantonieto&theme=radical&title_color=ff3068?"></a>
   
 <div/>
